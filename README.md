@@ -1,2 +1,1 @@
-# travle-path-android
-Travle path android client.
+TravelPath client for Android
